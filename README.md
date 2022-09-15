@@ -1,7 +1,7 @@
 - 👋 oi, eu sou a @agwiarr
-- 👀 estou pensando em cursar letras.
+- 👀 pensando em cursar letras.
 - 🌱 estou no primeiro ano do ensino médio. 
-- 📫 insta: agwiarr
+- 📫 me contate: yasmin.marcos@escola.pr.gov.br
 
 <!---
 agwiarr/agwiarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
